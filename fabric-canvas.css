@@ -1,0 +1,9 @@
+.canvas-container {
+  position: static !important;
+}
+
+#mapid {
+  height: 1100px;
+  position: static;
+  z-index: -1
+}
